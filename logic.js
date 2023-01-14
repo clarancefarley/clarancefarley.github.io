@@ -425,7 +425,7 @@ function finalPage() {
       navigator.share({
           title: 'My Cool App',
           text: 'Check out this cool app I made!',
-          url: 'https://mycoolapp.com'
+          url: 'https://clarancefarley.github.io/'
       })
     });
 
