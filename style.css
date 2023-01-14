@@ -131,8 +131,15 @@ hr{
     position: relative;
     z-index: 999;
     border-radius: 5px;
-    flex-flow: row wrap;
+    flex-flow: column;
     justify-content: center;
+}
+
+.one a small{
+    font-size: 8px;
+    font-weight: 700;
+    margin-top: 6px;
+    color: burlywood;
 }
 
 .a-span{
