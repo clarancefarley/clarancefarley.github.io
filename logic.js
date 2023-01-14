@@ -423,7 +423,7 @@ function finalPage() {
 
     shareBtn.addEventListener('click', function() {
       navigator.share({
-          title: 'My Cool App',
+          title: 'UX Quiz',
           text: 'Check out this cool app I made!',
           url: 'https://clarancefarley.github.io/'
       })
